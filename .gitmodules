@@ -1,0 +1,6 @@
+[submodule "api-nest-crud"]
+	path = api-nest-crud
+	url = https://github.com/EvelynCa/pruebaCrudApi
+[submodule "appfront"]
+	path = appfront
+	url = https://github.com/EvelynCa/appfront

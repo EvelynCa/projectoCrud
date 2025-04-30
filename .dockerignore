@@ -1,0 +1,11 @@
+appfront/node_modules
+appfront/build
+appfront/.dockerignore
+appfront/Dockerfile
+appfront/docker-compose.yml
+api-nest-crud/node_modules
+api-nest-crud/build
+api-nest-crud/.dockerignore
+api-nest-crud/Dockerfile
+api-nest-crud/docker-compose.yml
+
